@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ReactiveBook] - .../src/chapter3/Unsafe.java'" />
-    <option name="defaultScopeName" value="File '[ReactiveBook] - .../src/chapter3/Unsafe.java'" />
-    <option name="SEARCH_SCOPE" value="File '[ReactiveBook] - .../src/chapter3/Unsafe.java'" />
+    <option name="customScope" value="File '[ReactiveBook] - .../src/chapter3/Message.scala'" />
+    <option name="defaultScopeName" value="File '[ReactiveBook] - .../src/chapter3/Message.scala'" />
+    <option name="SEARCH_SCOPE" value="File '[ReactiveBook] - .../src/chapter3/Message.scala'" />
   </component>
 </application>
