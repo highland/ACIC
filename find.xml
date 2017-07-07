@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ReactiveBook] - .../src/chapter3/ParallelRetrievelExample.java'" />
-    <option name="defaultScopeName" value="File '[ReactiveBook] - .../src/chapter3/ParallelRetrievelExample.java'" />
-    <option name="SEARCH_SCOPE" value="File '[ReactiveBook] - .../src/chapter3/ParallelRetrievelExample.java'" />
+    <option name="customScope" value="File '[kotlin] - .../src/playpen.kt'" />
+    <option name="defaultScopeName" value="File '[kotlin] - .../src/playpen.kt'" />
+    <option name="SEARCH_SCOPE" value="File '[kotlin] - .../src/playpen.kt'" />
   </component>
 </application>
